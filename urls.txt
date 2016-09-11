@@ -17,9 +17,9 @@ http://pages.cs.wisc.edu/~rong/~rong/tags/HydroDev.html
 http://pages.cs.wisc.edu/~rong/~rong/tags/Lumos.html
 http://pages.cs.wisc.edu/~rong/~rong/tags/AlphaGo.html
 http://pages.cs.wisc.edu/~rong/~rong/tags/CNNs.html
+http://pages.cs.wisc.edu/~rong/~rong/category/Website.html
+http://pages.cs.wisc.edu/~rong/~rong/category/Algorithms.html
 http://pages.cs.wisc.edu/~rong/~rong/category/Deep Learning.html
 http://pages.cs.wisc.edu/~rong/~rong/category/Artificial Intelligence.html
 http://pages.cs.wisc.edu/~rong/~rong/category/Build System.html
 http://pages.cs.wisc.edu/~rong/~rong/category/Go.html
-http://pages.cs.wisc.edu/~rong/~rong/category/Website.html
-http://pages.cs.wisc.edu/~rong/~rong/category/Algorithms.html
